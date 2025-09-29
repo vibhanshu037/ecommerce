@@ -15,8 +15,8 @@ A complete full-stack e-commerce platform with React frontend and Node.js backen
 This project is a modern e-commerce platform that supports both authenticated users and guest checkout. It includes a React frontend with Vite and a Node.js backend with Express, MongoDB, and Stripe integration.
 
 Live Demo: [Add your deployed URL here]  
-Frontend Repository: https://github.com/vibhanshu037/stripe/frontend
-Backend Repository: https://github.com/vibhanshu037/stripe/backend
+Frontend Repository: https://github.com/vibhanshu037/ecommerce/frontend
+Backend Repository: https://github.com/vibhanshu037/ecommerce/backend
 
 ## ✨ Features
 **Backend Features**  
